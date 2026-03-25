@@ -1,0 +1,4 @@
+node_modules/
+accounts/*/ملف_الاتصال/
+*.log
+.env
