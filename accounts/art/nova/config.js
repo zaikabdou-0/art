@@ -9,7 +9,7 @@ const config = {
     defaultPrefix: '.',
 
     pairing:{
-        phone: "213774297599",
+        phone: "213541231299",
         code : "ART1ART1",
     },
 
