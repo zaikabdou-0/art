@@ -2,14 +2,14 @@ let prefix = '.';
 
 //بيانات افتراضية
 const config = {
-    botName: 'Anastasia',
+    botName: 'art',
     version: '4.0.0',
     owner: '213540419314',
 
     defaultPrefix: '.',
 
     pairing:{
-        phone: "213540419314",
+        phone: "213774297599",
         code : "ART1ART1",
     },
 
